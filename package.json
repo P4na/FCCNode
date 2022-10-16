@@ -4,16 +4,17 @@
   "description": "",
   "main": "1-intro.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P4na/FCCNode.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.17.21"
+  "bugs": {
+    "url": "https://github.com/P4na/FCCNode/issues"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
-  }
+  "homepage": "https://github.com/P4na/FCCNode#readme"
 }
